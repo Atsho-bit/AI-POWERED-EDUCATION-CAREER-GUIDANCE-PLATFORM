@@ -2,9 +2,6 @@
 
 **Live Demo: https://dynacademy.base44.app/dashboard 
 
-
-**Authors:** Sinakhokonke Buthelezi, Ncamisile Ntuli, Siyabonga Shezi, Lerato Zitha, Nota Atsho
-
 ---
 
 ## Overview
